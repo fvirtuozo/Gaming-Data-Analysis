@@ -1,0 +1,51 @@
+game_id,game_type,provider,volatility,release_date,rtp
+1,Table Games,Evolution,low,2024-06-22,0.857340123254998
+2,Live Casino,Evolution,medium,2023-12-22,0.939071020979696
+3,Sports Betting,NetEnt,medium,2025-03-01,0.85344671856861
+4,Sports Betting,NetEnt,high,2022-04-12,0.874663686077408
+5,Sports Betting,Evolution,high,2021-05-30,0.964825529600859
+6,Slots,Evolution,medium,2022-03-16,0.956424196752683
+7,Slots,Playtech,high,2024-11-27,0.905306101754007
+8,Live Casino,Microgaming,low,2022-07-08,0.971592942039528
+9,Sports Betting,NetEnt,low,2022-02-16,0.874619192939181
+10,Sports Betting,NetEnt,low,2021-03-09,0.960259652632198
+11,Slots,Playtech,low,2020-04-21,0.856018502914872
+12,Sports Betting,Playtech,low,2021-11-01,0.959715535946681
+13,Table Games,Playtech,medium,2020-06-15,0.870138500177832
+14,Table Games,NetEnt,low,2021-06-13,0.949539347564191
+15,Table Games,Microgaming,medium,2022-06-11,0.855248551429096
+16,Slots,NetEnt,low,2022-01-30,0.865257702098679
+17,Sports Betting,Microgaming,high,2022-06-30,0.911116383061844
+18,Live Casino,NetEnt,low,2024-12-19,0.96815310704342
+19,Sports Betting,Evolution,low,2022-07-11,0.881159328908947
+20,Slots,Evolution,medium,2023-02-10,0.901712095543262
+21,Sports Betting,Playtech,high,2022-05-28,0.935043323021334
+22,Live Casino,Playtech,medium,2021-12-11,0.9088185580583765
+23,Live Casino,NetEnt,low,2022-08-23,0.923368606570696
+24,Table Games,Microgaming,medium,2023-09-07,0.906039599552211
+25,Table Games,Evolution,high,2025-03-19,0.9088185580583765
+26,Slots,Playtech,low,2025-01-13,0.977450559298983
+27,Slots,NetEnt,medium,2022-01-23,0.913766090108798
+28,Live Casino,Playtech,high,2022-04-20,0.919834533914413
+29,Sports Betting,Evolution,low,2022-05-27,0.977094144677068
+30,Sports Betting,Evolution,medium,2024-05-10,0.90502361437577
+31,Slots,Playtech,low,2025-02-10,0.9088185580583765
+32,Table Games,Microgaming,low,2021-10-19,0.919638343542055
+33,Live Casino,Playtech,low,2023-01-07,0.959983476851695
+34,Table Games,NetEnt,medium,2023-08-28,0.857522019945982
+35,Live Casino,NetEnt,high,2022-12-27,0.9088185580583765
+36,Table Games,Evolution,low,2022-10-21,0.9088185580583765
+37,Live Casino,Evolution,medium,2021-12-01,0.85656532166559
+38,Slots,Evolution,high,2020-11-26,0.853950466721682
+39,Slots,Evolution,low,2022-07-31,0.891320716208168
+40,Table Games,NetEnt,medium,2024-09-21,0.864708006360518
+41,Table Games,Playtech,high,2023-05-20,0.912535699261357
+42,Sports Betting,Playtech,medium,2021-06-19,0.964421729812045
+43,Sports Betting,Playtech,low,2023-06-07,0.901639658570875
+44,Live Casino,Microgaming,medium,2023-12-08,0.853339416050341
+45,Live Casino,Microgaming,low,2023-08-31,0.85358163345929
+46,Sports Betting,Evolution,low,2024-01-20,0.913861640254417
+47,Slots,Evolution,high,2021-08-26,0.959365825050456
+48,Live Casino,Evolution,high,2021-04-18,0.860848426654841
+49,Table Games,Microgaming,low,2021-12-05,0.927138028178573
+50,Sports Betting,NetEnt,low,2025-02-20,0.913186013231794
