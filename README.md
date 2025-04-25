@@ -19,7 +19,7 @@ Improving the fairness and balance of games
 1. Define the Business Problem
 Aligned with stakeholders on goals like retention and revenue growth
 
-Established measurable KPIs (e.g., DAU, ARPU, LTV)
+Established measurable KPIs
 
 Ensured alignment with broader business priorities
 
